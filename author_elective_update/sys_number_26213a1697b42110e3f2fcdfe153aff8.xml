@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_58872_needit_needlt">x_58872_needit_needlt</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 07:32:50</sys_created_on>
+        <sys_id>26213a1697b42110e3f2fcdfe153aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_26213a1697b42110e3f2fcdfe153aff8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 07:32:50</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f6577b30db569514f492c597059619eb</instance_id>
+        <instance_name>dev138172</instance_name>
+        <name>sys_number_26213a1697b42110e3f2fcdfe153aff8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_58872_needit_needlt">x_58872_needit_needlt</category><maximum_digits>6</maximum_digits><number>2000</number><prefix>NI</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-06 07:32:50</sys_created_on><sys_id>26213a1697b42110e3f2fcdfe153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NI</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_number_26213a1697b42110e3f2fcdfe153aff8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-06 07:32:50</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1135353330</payload_hash>
+        <record_name>NI</record_name>
+        <reverted_from/>
+        <source>ff6ca29a97742110e3f2fcdfe153af7d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 07:32:50</sys_created_on>
+        <sys_id>a2217a1697b42110e3f2fcdfe153af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18625a4501f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 07:32:50</sys_updated_on>
+        <type>Number</type>
+        <update_guid>ea217a1643b42110a20d4f508b4bbb0d</update_guid>
+        <update_guid_history>ea217a1643b42110a20d4f508b4bbb0d:1135353330</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 07:59:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>bcf73fa0675c42b390d0feb782fe8521</sys_id>
+        <sys_metadata>26213a1697b42110e3f2fcdfe153aff8</sys_metadata>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">79d0f21697b42110e3f2fcdfe153afda</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_number_26213a1697b42110e3f2fcdfe153aff8</sys_update_name>
+        <sys_update_version display_value="sys_number_26213a1697b42110e3f2fcdfe153aff8">a2217a1697b42110e3f2fcdfe153af0e</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
